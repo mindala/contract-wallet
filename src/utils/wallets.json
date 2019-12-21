@@ -1,0 +1,13 @@
+{
+    "EncryptedSecret": "",
+    "ChainCode": "",
+    "ExtPubKey": "",
+    "PasswordVerified": false,
+    "MinGapLimit": 21,
+    "AccountKeyPath": "84'/0'/0'",
+    "BlockchainState": {
+        "Network": "Main",
+        "Height": "608845"
+    },
+    "HdPubKeys": []
+}
